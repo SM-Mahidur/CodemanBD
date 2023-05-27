@@ -1,0 +1,97 @@
+
+body{
+	background-color:#eee;
+	
+}
+.header h2{
+	text-shadow:2px 1px 1px #008000;
+	font-weight:bold;
+	margin-left:10px;
+	font-size:25px;
+	
+}
+.header h3{
+		text-indent:375px;
+		text-shadow:2px 1px 1px #ADFF2F;
+		font-weight:bold;
+		font-size:23px;
+	
+}
+.container{
+		max-width:100%;
+		max-width:100%;
+		
+		
+}
+.menubar{
+		max-width:100%;
+		background-color:black;
+		
+}
+.menubar ul{
+		list-style:none;
+		text-align:left;
+		
+}
+.menubar ul li{
+			display:inline-block;
+}
+
+.menubar ul li a{
+				display:block;
+				text-decoration:none;
+				padding:15px 25px;
+				color:white;
+				background-color:dark-red;
+				font-size:20px;
+}
+
+.menubar ul li a:hover{
+			background-color:red;
+			color:pink;
+			transition: .5s;
+}
+
+.banner{
+			background-image:url("Assests/images/banner/banner.jpg");
+			max-width:100%;	
+			height:400px;
+			background-repeat:no-repeat;
+			background-position:center;
+			background-size:cover;
+			
+		
+}
+
+.banner h2,h3{
+				color:#191970;
+				text-align:center;
+				margin-top:25px;
+}
+
+.banner h2{
+			
+				padding-top:10px;
+				color:white;
+}
+.banner h3{
+				color:#FFFAFA;
+}
+.banner img{
+			border:2px solid white;
+			border-radius:50%;
+			margin:10px;
+}
+.class_details{
+				text-align:left;
+				
+}
+.class_details h3{
+				text-align:left;
+				border-bottom:3px solid green;
+}
+.assignment h3{
+			text-align:left;
+			border-bottom:3px solid green;
+	
+}
